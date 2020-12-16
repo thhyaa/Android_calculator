@@ -12,6 +12,7 @@ import android.widget.TextView;
 
 import java.text.DecimalFormat;
 
+// test for android stdio git
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     Button zero, one, two, three, four, five, six, seven, eight, nine, point;
     Button clear, add, subtraction, multiplication, division, root, surplus, equal, delete;
